@@ -1,1 +1,11 @@
-# backrooms-level1
+# 后室 Level 1
+
+单文件 Three.js 第一人称网页游戏，在手机浏览器里探索后室 Level 1（宜居地带）。
+
+## 怎么玩
+
+横屏，左半屏移动，右半屏转视角。
+
+## 授权
+
+维基内容采用 CC BY-SA 3.0。贴图来自 Poly Haven，采用 CC0。
